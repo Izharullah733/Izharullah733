@@ -1,6 +1,6 @@
 # Izhar Ullah | izharullah733
 
-**Python · Machine Learning · Computer Vision · Data Analytics · Web Applications**
+**Python · Machine Learning · Deep learning · NLP · Computer Vision · Data Analytics · Web Applications**
 
 I'm **Izhar Ullah**, known on GitHub as **izharullah733**. I build practical
 machine learning projects and web applications, with an interest in reproducible
