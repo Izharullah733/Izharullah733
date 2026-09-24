@@ -17,7 +17,7 @@ experiments, useful interfaces, and clear documentation of results and limitatio
 | [LeadPilot AI](https://github.com/Izharullah733/leadpilot-ai) | A lead-management dashboard with team access, follow-ups and appointment workflows | Next.js, React, TypeScript, Supabase, PostgreSQL |
 | [Credit Card Fraud Detection](https://github.com/Izharullah733/Fraud-Detection-System) | Classification experiments for imbalanced transaction data | Python, scikit-learn, TensorFlow/Keras |
 | [Fashion Recommender System](https://github.com/Izharullah733/Fashion-Recommender-System) | Hybrid recommendations combining collaborative, content-based and popularity approaches | Python, scikit-learn, Streamlit |
-| [E-commerce Data Analysis](https://github.com/Izharullah733/Data-Analytics-with-Python-and-SQL-) | Sales, customer behavior and retention analysis | Python, SQL, Pandas, Matplotlib |
+| [E-commerce Data Analysis](https://github.com/Izharullah733/Pdf-Evidence-RAG) | Sales, customer behavior and retention analysis | Python, SQL, Pandas, Matplotlib |
 
 ## Project spotlight: NeuroSeg
 
