@@ -14,10 +14,11 @@ experiments, useful interfaces, and clear documentation of results and limitatio
 |---|---|---|
 | [NeuroSeg: Brain Tumor Segmentation](https://github.com/Izharullah733/neuroseg-brain-tumor-segmentation) | CPU-efficient multi-modal MRI segmentation, region measurements, and a local research dashboard | Python, PyTorch, U-Net, NiBabel, Streamlit |
 | [YOLOv5 Object Detection](https://github.com/Izharullah733/yolov5-object-detection) | Webcam, image and video detection, with dataset preparation and a small CPU fine-tuning experiment | Python, PyTorch, OpenCV, YOLOv5 |
+| [Pdf-Evidence-RAG](https://github.com/Izharullah733/Pdf-Evidence-RAG) | PDF Evidence is a RAG dashboard for asking questions about PDF documents | Python, NLP, RAG, Groq, Streanlit, Pinecone, Vector Database |
 | [LeadPilot AI](https://github.com/Izharullah733/leadpilot-ai) | A lead-management dashboard with team access, follow-ups and appointment workflows | Next.js, React, TypeScript, Supabase, PostgreSQL |
 | [Credit Card Fraud Detection](https://github.com/Izharullah733/Fraud-Detection-System) | Classification experiments for imbalanced transaction data | Python, scikit-learn, TensorFlow/Keras |
 | [Fashion Recommender System](https://github.com/Izharullah733/Fashion-Recommender-System) | Hybrid recommendations combining collaborative, content-based and popularity approaches | Python, scikit-learn, Streamlit |
-| [Pdf-Evidence-RAG](https://github.com/Izharullah733/Pdf-Evidence-RAG) | PDF Evidence is a RAG dashboard for asking questions about PDF documents | Python, NLP, RAG, Groq, Streanlit, Pinecone, Vector Database |
+
 
 ## Project spotlight: NeuroSeg
 
